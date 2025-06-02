@@ -12,8 +12,8 @@ A simple and powerful Object Detection Web App built using the 🤗 facebook/det
 ✅ Easy-to-use and beginner-friendly implementation<br/>
 
 # 🛠️ Tech Stack<br/>
-🐍 Python
-🤗 Hugging Face Transformers (facebook/detr-resnet-50)
-🧠 PyTorch (backend for model)
-🖼️ PIL (Image Processing)
-🌐 Gradio (Web UI)
+🐍 Python<br/>
+🤗 Hugging Face Transformers (facebook/detr-resnet-50)<br/>
+🧠 PyTorch (backend for model)<br/>
+🖼️ PIL (Image Processing)<br/>
+🌐 Gradio (Web UI)<br/>
